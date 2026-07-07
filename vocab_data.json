@@ -1,0 +1,156 @@
+{
+  "classes": [
+    {
+      "id": 1,
+      "title": "Class 1: Words 1-10",
+      "words": [
+        {
+          "word": "a.m.",
+          "pos": "adverb",
+          "syllables": "a.m. (2 syllables)",
+          "pronunciation_en": "ey-em",
+          "pronunciation_ta": "ஏ-எம்",
+          "meaning_en": "before noon",
+          "meaning_ta": "முற்பகல்",
+          "example_en": "I always wake up early at 6:00 a.m.",
+          "example_ta": "நான் எப்போதும் காலை 6:00 முற்பகலுக்கு சீக்கிரம் எழுந்துவிடுவேன்.",
+          "image": "assets/images/vocab_am.jpg"
+        },
+        {
+          "word": "abandon",
+          "pos": "noun",
+          "syllables": "a-ban-don (3 syllables)",
+          "pronunciation_en": "uh-ban-duhn",
+          "pronunciation_ta": "அ-பான்-டன்",
+          "meaning_en": "reckless freedom from inhibition or worry",
+          "meaning_ta": "கட்டுப்பாடற்ற சுதந்திரம் / கைவிடுதல்",
+          "example_en": "He played the drums with complete abandon, not caring who was listening.",
+          "example_ta": "யார் கேட்கிறார்கள் என்று கவலைப்படாமல் அவர் முழுமையான சுதந்திரத்துடன் டிரம்ஸ் வாசித்தார்.",
+          "image": "assets/images/vocab_abandon.jpg"
+        },
+        {
+          "word": "abandoned",
+          "pos": "adjective",
+          "syllables": "a-ban-doned (3 syllables)",
+          "pronunciation_en": "uh-ban-duhnd",
+          "pronunciation_ta": "அ-பான்-டண்ட்",
+          "meaning_en": "forsaken, left behind",
+          "meaning_ta": "கைவிடப்பட்ட",
+          "example_en": "The old house at the end of the street has been abandoned for years.",
+          "example_ta": "தெருவின் முடிவில் உள்ள பழைய வீடு பல ஆண்டுகளாக கைவிடப்பட்டுள்ளது.",
+          "image": "assets/images/vocab_abandoned.jpg"
+        },
+        {
+          "word": "aberrant",
+          "pos": "adjective",
+          "syllables": "ab-er-rant (3 syllables)",
+          "pronunciation_en": "uh-ber-uhnt",
+          "pronunciation_ta": "அ-பெர்-அன்ட்",
+          "meaning_en": "markedly different from an accepted norm",
+          "meaning_ta": "வழக்கத்திற்கு மாறான",
+          "example_en": "His sudden outburst was completely aberrant from his usual calm behavior.",
+          "example_ta": "அவரது திடீர் கோபம் அவரது வழக்கமான அமைதியான நடத்தைக்கு முற்றிலும் மாறானதாக இருந்தது.",
+          "image": "assets/images/vocab_aberrant.jpg"
+        },
+        {
+          "word": "aberration",
+          "pos": "noun",
+          "syllables": "ab-er-ra-tion (4 syllables)",
+          "pronunciation_en": "ab-uh-rey-shuhn",
+          "pronunciation_ta": "அப்-அ-ரே-ஷன்",
+          "meaning_en": "a deviation from what is normal or expected",
+          "meaning_ta": "வழக்கத்திலிருந்து விலகுதல்",
+          "example_en": "The sudden snowstorm in July was a weather aberration.",
+          "example_ta": "ஜூலை மாதத்தில் ஏற்பட்ட திடீர் பனிப்புயல் ஒரு வானிலை மாற்றமாகும்.",
+          "image": "assets/images/vocab_aberration.jpg"
+        },
+        {
+          "word": "ability",
+          "pos": "noun",
+          "syllables": "a-bil-i-ty (4 syllables)",
+          "pronunciation_en": "uh-bil-i-tee",
+          "pronunciation_ta": "அ-பில்-இ-ட்டி",
+          "meaning_en": "the quality of being able to perform; a quality that permits achievement",
+          "meaning_ta": "திறன் / ஆற்றல்",
+          "example_en": "She has an incredible ability to solve complex puzzles quickly.",
+          "example_ta": "சிக்கலான புதிர்களை விரைவாகத் தீர்க்கும் நம்பமுடியாத திறன் அவளுக்கு உள்ளது.",
+          "image": "assets/images/vocab_ability.jpg"
+        },
+        {
+          "word": "abjure",
+          "pos": "verb",
+          "syllables": "ab-jure (2 syllables)",
+          "pronunciation_en": "ab-joor",
+          "pronunciation_ta": "அப்-ஜூர்",
+          "meaning_en": "formally reject or give up (as a belief)",
+          "meaning_ta": "முறைப்படி கைவிடுதல்",
+          "example_en": "Under threat of torture, Galileo abjured the heliocentric theory.",
+          "example_ta": "சித்திரவதை அச்சுறுத்தலின் கீழ், கலிலியோ சூரியனை மையமாகக் கொண்ட கோட்பாட்டை முறைப்படி கைவிட்டார்.",
+          "image": "assets/images/vocab_abjure.jpg"
+        },
+        {
+          "word": "able",
+          "pos": "adjective",
+          "syllables": "a-ble (2 syllables)",
+          "pronunciation_en": "ey-buhl",
+          "pronunciation_ta": "ஏ-பல்",
+          "meaning_en": "having the necessary means, skill, or authority to do something",
+          "meaning_ta": "இயன்ற / தகுதியுள்ள",
+          "example_en": "Are you able to finish this report by Friday?",
+          "example_ta": "வெள்ளிக்கிழமைக்குள் இந்த அறிக்கையை உங்களால் முடிக்க முடியுமா?",
+          "image": "assets/images/vocab_able.jpg"
+        },
+        {
+          "word": "about",
+          "pos": "adverb",
+          "syllables": "a-bout (2 syllables)",
+          "pronunciation_en": "uh-bout",
+          "pronunciation_ta": "அ-பவுட்",
+          "meaning_en": "on the move",
+          "meaning_ta": "பற்றி / சுற்றிலும்",
+          "example_en": "The toddler was about the house, exploring every room.",
+          "example_ta": "குழந்தை வீடு முழுவதும் சுற்றித்திரிந்து, ஒவ்வொரு அறையையும் ஆராய்ந்தது.",
+          "image": "assets/images/vocab_about.jpg"
+        },
+        {
+          "word": "above",
+          "pos": "adjective",
+          "syllables": "a-bove (2 syllables)",
+          "pronunciation_en": "uh-buhv",
+          "pronunciation_ta": "அ-பவ்",
+          "meaning_en": "an earlier section of a written text",
+          "meaning_ta": "மேலே",
+          "example_en": "As mentioned above in the document, you must sign the form.",
+          "example_ta": "ஆவணத்தில் மேலே குறிப்பிட்டுள்ளபடி, நீங்கள் படிவத்தில் கையெழுத்திட வேண்டும்.",
+          "image": "assets/images/vocab_above.jpg"
+        }
+      ],
+      "quiz": {
+        "meaning_mcq": [
+          {"question": "What is the meaning of 'a.m.'?", "options": ["afternoon", "before noon", "evening", "midnight"], "answer": "before noon"},
+          {"question": "What is the meaning of 'abandon'?", "options": ["careful control", "to protect", "reckless freedom from inhibition", "to fix"], "answer": "reckless freedom from inhibition"},
+          {"question": "What is the meaning of 'abandoned'?", "options": ["well kept", "cherish", "to start", "forsaken, left behind"], "answer": "forsaken, left behind"},
+          {"question": "What is the meaning of 'aberrant'?", "options": ["markedly different from an accepted norm", "wealthy", "friendly", "eager"], "answer": "markedly different from an accepted norm"},
+          {"question": "What is the meaning of 'aberration'?", "options": ["highest achievement", "a deviation from what is normal", "mixture", "extreme beauty"], "answer": "a deviation from what is normal"},
+          {"question": "What is the meaning of 'ability'?", "options": ["weakness", "failure", "the quality of being able to perform", "doubt"], "answer": "the quality of being able to perform"},
+          {"question": "What is the meaning of 'abjure'?", "options": ["to act as a judge", "formally reject or give up", "easily persuaded", "to warn strongly"], "answer": "formally reject or give up"},
+          {"question": "What is the meaning of 'able'?", "options": ["having the necessary means or skill", "unable", "tired", "broken"], "answer": "having the necessary means or skill"},
+          {"question": "What is the meaning of 'about'?", "options": ["stationary", "on the move", "asleep", "hidden"], "answer": "on the move"},
+          {"question": "What is the meaning of 'above'?", "options": ["below", "sideways", "an earlier section of a written text", "under"], "answer": "an earlier section of a written text"}
+        ],
+        "sentence_fill": [
+          {"question": "I always wake up early at 6:00 ______.", "options": ["a.m.", "abandon", "abandoned", "aberration"], "answer": "a.m."},
+          {"question": "He played the drums with complete ______, not caring who was listening.", "options": ["aberrant", "abandon", "ability", "about"], "answer": "abandon"},
+          {"question": "The old house at the end of the street has been ______ for years.", "options": ["abjure", "above", "abandoned", "able"], "answer": "abandoned"},
+          {"question": "His sudden outburst was completely ______ from his usual calm behavior.", "options": ["aberrant", "aberration", "a.m.", "ability"], "answer": "aberrant"},
+          {"question": "The sudden snowstorm in July was a weather ______.", "options": ["aberration", "abandon", "above", "about"], "answer": "aberration"},
+          {"question": "She has an incredible ______ to solve complex puzzles quickly.", "options": ["ability", "able", "abjure", "aberrant"], "answer": "ability"},
+          {"question": "Under threat of torture, Galileo ______ the heliocentric theory.", "options": ["abjured", "abandoned", "able", "above"], "answer": "abjured"},
+          {"question": "Are you ______ to finish this report by Friday?", "options": ["able", "ability", "about", "a.m."], "answer": "able"},
+          {"question": "The toddler was ______ the house, exploring every room.", "options": ["about", "above", "abandon", "aberrant"], "answer": "about"},
+          {"question": "As mentioned ______ in the document, you must sign the form.", "options": ["above", "about", "able", "abandoned"], "answer": "above"}
+        ]
+      }
+    }
+  ]
+}
