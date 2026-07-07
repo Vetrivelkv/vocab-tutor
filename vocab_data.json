@@ -127,28 +127,540 @@
       ],
       "quiz": {
         "meaning_mcq": [
-          {"question": "What is the meaning of 'a.m.'?", "options": ["afternoon", "before noon", "evening", "midnight"], "answer": "before noon"},
-          {"question": "What is the meaning of 'abandon'?", "options": ["careful control", "to protect", "reckless freedom from inhibition", "to fix"], "answer": "reckless freedom from inhibition"},
-          {"question": "What is the meaning of 'abandoned'?", "options": ["well kept", "cherish", "to start", "forsaken, left behind"], "answer": "forsaken, left behind"},
-          {"question": "What is the meaning of 'aberrant'?", "options": ["markedly different from an accepted norm", "wealthy", "friendly", "eager"], "answer": "markedly different from an accepted norm"},
-          {"question": "What is the meaning of 'aberration'?", "options": ["highest achievement", "a deviation from what is normal", "mixture", "extreme beauty"], "answer": "a deviation from what is normal"},
-          {"question": "What is the meaning of 'ability'?", "options": ["weakness", "failure", "the quality of being able to perform", "doubt"], "answer": "the quality of being able to perform"},
-          {"question": "What is the meaning of 'abjure'?", "options": ["to act as a judge", "formally reject or give up", "easily persuaded", "to warn strongly"], "answer": "formally reject or give up"},
-          {"question": "What is the meaning of 'able'?", "options": ["having the necessary means or skill", "unable", "tired", "broken"], "answer": "having the necessary means or skill"},
-          {"question": "What is the meaning of 'about'?", "options": ["stationary", "on the move", "asleep", "hidden"], "answer": "on the move"},
-          {"question": "What is the meaning of 'above'?", "options": ["below", "sideways", "an earlier section of a written text", "under"], "answer": "an earlier section of a written text"}
+          {
+            "question": "What is the meaning of 'a.m.'?",
+            "options": [
+              "afternoon",
+              "before noon",
+              "evening",
+              "midnight"
+            ],
+            "answer": "before noon"
+          },
+          {
+            "question": "What is the meaning of 'abandon'?",
+            "options": [
+              "careful control",
+              "to protect",
+              "reckless freedom from inhibition",
+              "to fix"
+            ],
+            "answer": "reckless freedom from inhibition"
+          },
+          {
+            "question": "What is the meaning of 'abandoned'?",
+            "options": [
+              "well kept",
+              "cherish",
+              "to start",
+              "forsaken, left behind"
+            ],
+            "answer": "forsaken, left behind"
+          },
+          {
+            "question": "What is the meaning of 'aberrant'?",
+            "options": [
+              "markedly different from an accepted norm",
+              "wealthy",
+              "friendly",
+              "eager"
+            ],
+            "answer": "markedly different from an accepted norm"
+          },
+          {
+            "question": "What is the meaning of 'aberration'?",
+            "options": [
+              "highest achievement",
+              "a deviation from what is normal",
+              "mixture",
+              "extreme beauty"
+            ],
+            "answer": "a deviation from what is normal"
+          },
+          {
+            "question": "What is the meaning of 'ability'?",
+            "options": [
+              "weakness",
+              "failure",
+              "the quality of being able to perform",
+              "doubt"
+            ],
+            "answer": "the quality of being able to perform"
+          },
+          {
+            "question": "What is the meaning of 'abjure'?",
+            "options": [
+              "to act as a judge",
+              "formally reject or give up",
+              "easily persuaded",
+              "to warn strongly"
+            ],
+            "answer": "formally reject or give up"
+          },
+          {
+            "question": "What is the meaning of 'able'?",
+            "options": [
+              "having the necessary means or skill",
+              "unable",
+              "tired",
+              "broken"
+            ],
+            "answer": "having the necessary means or skill"
+          },
+          {
+            "question": "What is the meaning of 'about'?",
+            "options": [
+              "stationary",
+              "on the move",
+              "asleep",
+              "hidden"
+            ],
+            "answer": "on the move"
+          },
+          {
+            "question": "What is the meaning of 'above'?",
+            "options": [
+              "below",
+              "sideways",
+              "an earlier section of a written text",
+              "under"
+            ],
+            "answer": "an earlier section of a written text"
+          }
         ],
         "sentence_fill": [
-          {"question": "I always wake up early at 6:00 ______.", "options": ["a.m.", "abandon", "abandoned", "aberration"], "answer": "a.m."},
-          {"question": "He played the drums with complete ______, not caring who was listening.", "options": ["aberrant", "abandon", "ability", "about"], "answer": "abandon"},
-          {"question": "The old house at the end of the street has been ______ for years.", "options": ["abjure", "above", "abandoned", "able"], "answer": "abandoned"},
-          {"question": "His sudden outburst was completely ______ from his usual calm behavior.", "options": ["aberrant", "aberration", "a.m.", "ability"], "answer": "aberrant"},
-          {"question": "The sudden snowstorm in July was a weather ______.", "options": ["aberration", "abandon", "above", "about"], "answer": "aberration"},
-          {"question": "She has an incredible ______ to solve complex puzzles quickly.", "options": ["ability", "able", "abjure", "aberrant"], "answer": "ability"},
-          {"question": "Under threat of torture, Galileo ______ the heliocentric theory.", "options": ["abjured", "abandoned", "able", "above"], "answer": "abjured"},
-          {"question": "Are you ______ to finish this report by Friday?", "options": ["able", "ability", "about", "a.m."], "answer": "able"},
-          {"question": "The toddler was ______ the house, exploring every room.", "options": ["about", "above", "abandon", "aberrant"], "answer": "about"},
-          {"question": "As mentioned ______ in the document, you must sign the form.", "options": ["above", "about", "able", "abandoned"], "answer": "above"}
+          {
+            "question": "I always wake up early at 6:00 ______.",
+            "options": [
+              "a.m.",
+              "abandon",
+              "abandoned",
+              "aberration"
+            ],
+            "answer": "a.m."
+          },
+          {
+            "question": "He played the drums with complete ______, not caring who was listening.",
+            "options": [
+              "aberrant",
+              "abandon",
+              "ability",
+              "about"
+            ],
+            "answer": "abandon"
+          },
+          {
+            "question": "The old house at the end of the street has been ______ for years.",
+            "options": [
+              "abjure",
+              "above",
+              "abandoned",
+              "able"
+            ],
+            "answer": "abandoned"
+          },
+          {
+            "question": "His sudden outburst was completely ______ from his usual calm behavior.",
+            "options": [
+              "aberrant",
+              "aberration",
+              "a.m.",
+              "ability"
+            ],
+            "answer": "aberrant"
+          },
+          {
+            "question": "The sudden snowstorm in July was a weather ______.",
+            "options": [
+              "aberration",
+              "abandon",
+              "above",
+              "about"
+            ],
+            "answer": "aberration"
+          },
+          {
+            "question": "She has an incredible ______ to solve complex puzzles quickly.",
+            "options": [
+              "ability",
+              "able",
+              "abjure",
+              "aberrant"
+            ],
+            "answer": "ability"
+          },
+          {
+            "question": "Under threat of torture, Galileo ______ the heliocentric theory.",
+            "options": [
+              "abjured",
+              "abandoned",
+              "able",
+              "above"
+            ],
+            "answer": "abjured"
+          },
+          {
+            "question": "Are you ______ to finish this report by Friday?",
+            "options": [
+              "able",
+              "ability",
+              "about",
+              "a.m."
+            ],
+            "answer": "able"
+          },
+          {
+            "question": "The toddler was ______ the house, exploring every room.",
+            "options": [
+              "about",
+              "above",
+              "abandon",
+              "aberrant"
+            ],
+            "answer": "about"
+          },
+          {
+            "question": "As mentioned ______ in the document, you must sign the form.",
+            "options": [
+              "above",
+              "about",
+              "able",
+              "abandoned"
+            ],
+            "answer": "above"
+          }
+        ]
+      }
+    },
+    {
+      "id": 2,
+      "title": "Class 2: Words 11-20",
+      "words": [
+        {
+          "word": "aboveboard",
+          "pos": "adjective",
+          "syllables": "a-bove-board (3 syllables)",
+          "pronunciation_en": "uh-buhv-bawrd",
+          "pronunciation_ta": "அ-பவ்-போர்ட்",
+          "meaning_en": "open and honest",
+          "meaning_ta": "நேர்மையான மற்றும் வெளிப்படையான",
+          "example_en": "The transaction was completely aboveboard, with no hidden fees.",
+          "example_ta": "பரிவர்த்தனை எந்த மறைமுக கட்டணமும் இன்றி முற்றிலும் வெளிப்படையாக இருந்தது.",
+          "image": "assets/images/vocab_aboveboard.jpg"
+        },
+        {
+          "word": "abroad",
+          "pos": "adjective",
+          "syllables": "a-broad (2 syllables)",
+          "pronunciation_en": "uh-brawd",
+          "pronunciation_ta": "அ-ப்ராட்",
+          "meaning_en": "in a foreign country",
+          "meaning_ta": "வெளிநாட்டில்",
+          "example_en": "She decided to study abroad for a semester to learn a new language.",
+          "example_ta": "புதிய மொழியைக் கற்க அவள் ஒரு செமஸ்டர் வெளிநாட்டில் படிக்க முடிவு செய்தாள்.",
+          "image": "assets/images/vocab_abroad.jpg"
+        },
+        {
+          "word": "abrogate",
+          "pos": "verb",
+          "syllables": "ab-ro-gate (3 syllables)",
+          "pronunciation_en": "ab-ruh-geyt",
+          "pronunciation_ta": "அப்-ரோ-கேட்",
+          "meaning_en": "revoke or relinquish formally; do away with",
+          "meaning_ta": "முறைப்படி ரத்து செய்தல்",
+          "example_en": "The government chose to abrogate the old treaty.",
+          "example_ta": "பழைய ஒப்பந்தத்தை ரத்து செய்ய அரசாங்கம் முடிவு செய்தது.",
+          "image": "assets/images/vocab_abrogate.jpg"
+        },
+        {
+          "word": "absence",
+          "pos": "noun",
+          "syllables": "ab-sence (2 syllables)",
+          "pronunciation_en": "ab-suhns",
+          "pronunciation_ta": "அப்-சென்ஸ்",
+          "meaning_en": "the state of being absent",
+          "meaning_ta": "இல்லாமை / வரமின்மை",
+          "example_en": "His absence from the meeting was noted by the manager.",
+          "example_ta": "கூட்டத்தில் அவர் இல்லாததை மேலாளர் கவனித்தார்.",
+          "image": "assets/images/vocab_absence.jpg"
+        },
+        {
+          "word": "absent",
+          "pos": "verb",
+          "syllables": "ab-sent (2 syllables)",
+          "pronunciation_en": "ab-suhnt",
+          "pronunciation_ta": "அப்-சென்ட்",
+          "meaning_en": "go away or leave",
+          "meaning_ta": "விலகிச் செல் / வராதிரு",
+          "example_en": "He absented himself from the crowded party to get some fresh air.",
+          "example_ta": "சுத்தமான காற்றைப் பெற கூட்டமான பார்ட்டியிலிருந்து அவன் விலகிச் சென்றான்.",
+          "image": "assets/images/vocab_absent.jpg"
+        },
+        {
+          "word": "absolute",
+          "pos": "noun",
+          "syllables": "ab-so-lute (3 syllables)",
+          "pronunciation_en": "ab-suh-loot",
+          "pronunciation_ta": "அப்-சொ-லூட்",
+          "meaning_en": "something that is not relative; complete and beyond human control",
+          "meaning_ta": "முழுமையான / நிபந்தனையற்ற",
+          "example_en": "The king ruled with absolute power over the kingdom.",
+          "example_ta": "அரசன் ராஜ்யத்தின் மீது முழுமையான அதிகாரத்துடன் ஆட்சி செய்தான்.",
+          "image": "assets/images/vocab_absolute.jpg"
+        },
+        {
+          "word": "absolutely",
+          "pos": "adverb",
+          "syllables": "ab-so-lute-ly (4 syllables)",
+          "pronunciation_en": "ab-suh-loot-lee",
+          "pronunciation_ta": "அப்-சொ-லூட்-லீ",
+          "meaning_en": "completely and without qualification",
+          "meaning_ta": "முற்றிலும் / நிச்சயமாக",
+          "example_en": "I am absolutely certain that I locked the door.",
+          "example_ta": "நான் கதவைப் பூட்டியதில் முற்றிலும் உறுதியாக இருக்கிறேன்.",
+          "image": "assets/images/vocab_absolutely.jpg"
+        },
+        {
+          "word": "absorb",
+          "pos": "verb",
+          "syllables": "ab-sorb (2 syllables)",
+          "pronunciation_en": "ab-zawrb",
+          "pronunciation_ta": "அப்-சார்ப்",
+          "meaning_en": "become imbued; to take in",
+          "meaning_ta": "உறிஞ்சுதல் / ஈர்த்தல்",
+          "example_en": "A dry sponge will easily absorb the spilled water.",
+          "example_ta": "ஒரு காய்ந்த ஸ்பாஞ்ச் கொட்டிய தண்ணீரை எளிதில் உறிஞ்சிவிடும்.",
+          "image": "assets/images/vocab_absorb.jpg"
+        },
+        {
+          "word": "abstain",
+          "pos": "verb",
+          "syllables": "ab-stain (2 syllables)",
+          "pronunciation_en": "ab-steyn",
+          "pronunciation_ta": "அப்-ஸ்டெய்ன்",
+          "meaning_en": "choose not to consume or take part in",
+          "meaning_ta": "தவிர்த்தல் / விலகியிருத்தல்",
+          "example_en": "She decided to abstain from eating junk food.",
+          "example_ta": "ஆரோக்கியமற்ற உணவுகளை சாப்பிடுவதை தவிர்க்க அவள் முடிவு செய்தாள்.",
+          "image": "assets/images/vocab_abstain.jpg"
+        },
+        {
+          "word": "abstruse",
+          "pos": "adjective",
+          "syllables": "ab-struse (2 syllables)",
+          "pronunciation_en": "ab-stroos",
+          "pronunciation_ta": "அப்-ஸ்ட்ரூஸ்",
+          "meaning_en": "difficult to understand; incomprehensible",
+          "meaning_ta": "புரிந்துகொள்ள கடினமான",
+          "example_en": "The professor's lecture on quantum mechanics was too abstruse for the freshmen.",
+          "example_ta": "குவாண்டம் மெக்கானிக்ஸ் பற்றிய பேராசிரியரின் விரிவுரை புதிய மாணவர்களுக்கு புரிந்துகொள்ள மிகவும் கடினமாக இருந்தது.",
+          "image": "assets/images/vocab_abstruse.jpg"
+        }
+      ],
+      "quiz": {
+        "meaning_mcq": [
+          {
+            "question": "What is the meaning of 'aboveboard'?",
+            "options": [
+              "hidden",
+              "open and honest",
+              "foreign",
+              "difficult"
+            ],
+            "answer": "open and honest"
+          },
+          {
+            "question": "What is the meaning of 'abroad'?",
+            "options": [
+              "in a foreign country",
+              "at home",
+              "in the sky",
+              "underground"
+            ],
+            "answer": "in a foreign country"
+          },
+          {
+            "question": "What is the meaning of 'abrogate'?",
+            "options": [
+              "to create",
+              "to support",
+              "revoke or relinquish formally",
+              "to absorb"
+            ],
+            "answer": "revoke or relinquish formally"
+          },
+          {
+            "question": "What is the meaning of 'absence'?",
+            "options": [
+              "presence",
+              "the state of being absent",
+              "gift",
+              "complete"
+            ],
+            "answer": "the state of being absent"
+          },
+          {
+            "question": "What is the meaning of 'absent'?",
+            "options": [
+              "go away or leave",
+              "stay",
+              "arrive",
+              "understand"
+            ],
+            "answer": "go away or leave"
+          },
+          {
+            "question": "What is the meaning of 'absolute'?",
+            "options": [
+              "relative",
+              "partial",
+              "something complete and beyond human control",
+              "confusing"
+            ],
+            "answer": "something complete and beyond human control"
+          },
+          {
+            "question": "What is the meaning of 'absolutely'?",
+            "options": [
+              "completely and without qualification",
+              "maybe",
+              "slightly",
+              "never"
+            ],
+            "answer": "completely and without qualification"
+          },
+          {
+            "question": "What is the meaning of 'absorb'?",
+            "options": [
+              "to repel",
+              "to reject",
+              "become imbued; to take in",
+              "to misunderstand"
+            ],
+            "answer": "become imbued; to take in"
+          },
+          {
+            "question": "What is the meaning of 'abstain'?",
+            "options": [
+              "to consume entirely",
+              "choose not to consume or take part in",
+              "to travel",
+              "to honestly declare"
+            ],
+            "answer": "choose not to consume or take part in"
+          },
+          {
+            "question": "What is the meaning of 'abstruse'?",
+            "options": [
+              "difficult to understand; incomprehensible",
+              "easy to read",
+              "open and honest",
+              "waterproof"
+            ],
+            "answer": "difficult to understand; incomprehensible"
+          }
+        ],
+        "sentence_fill": [
+          {
+            "question": "The transaction was completely ______, with no hidden fees.",
+            "options": [
+              "aboveboard",
+              "abstruse",
+              "abroad",
+              "absence"
+            ],
+            "answer": "aboveboard"
+          },
+          {
+            "question": "She decided to study ______ for a semester to learn a new language.",
+            "options": [
+              "aboveboard",
+              "abroad",
+              "absolutely",
+              "absent"
+            ],
+            "answer": "abroad"
+          },
+          {
+            "question": "The government chose to ______ the old treaty.",
+            "options": [
+              "abrogate",
+              "absorb",
+              "abstain",
+              "absent"
+            ],
+            "answer": "abrogate"
+          },
+          {
+            "question": "His ______ from the meeting was noted by the manager.",
+            "options": [
+              "absence",
+              "absolute",
+              "aboveboard",
+              "abroad"
+            ],
+            "answer": "absence"
+          },
+          {
+            "question": "He ______ himself from the crowded party to get some fresh air.",
+            "options": [
+              "absented",
+              "absorbed",
+              "abrogated",
+              "abstained"
+            ],
+            "answer": "absented"
+          },
+          {
+            "question": "The king ruled with ______ power over the kingdom.",
+            "options": [
+              "absolute",
+              "abstruse",
+              "aboveboard",
+              "abroad"
+            ],
+            "answer": "absolute"
+          },
+          {
+            "question": "I am ______ certain that I locked the door.",
+            "options": [
+              "absolutely",
+              "abroad",
+              "absent",
+              "abstruse"
+            ],
+            "answer": "absolutely"
+          },
+          {
+            "question": "A dry sponge will easily ______ the spilled water.",
+            "options": [
+              "absorb",
+              "abstain",
+              "abrogate",
+              "absent"
+            ],
+            "answer": "absorb"
+          },
+          {
+            "question": "She decided to ______ from eating junk food.",
+            "options": [
+              "abstain",
+              "absorb",
+              "abrogate",
+              "absent"
+            ],
+            "answer": "abstain"
+          },
+          {
+            "question": "The professor's lecture on quantum mechanics was too ______ for the freshmen.",
+            "options": [
+              "abstruse",
+              "absolute",
+              "aboveboard",
+              "abroad"
+            ],
+            "answer": "abstruse"
+          }
         ]
       }
     }
