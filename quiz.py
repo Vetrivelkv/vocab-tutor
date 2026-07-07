@@ -1,5 +1,12 @@
 import streamlit as st
 import database as db
+import random
+
+def get_shuffled_options(question_text, options):
+    rng = random.Random(question_text)
+    shuffled = options.copy()
+    rng.shuffle(shuffled)
+    return shuffled
 
 def render():
     class_id = st.session_state.current_class_id
@@ -18,7 +25,8 @@ def render():
         mcq_answers = []
         for i, q in enumerate(quiz_data['meaning_mcq']):
             st.write(f"**{i+1}. {q['question']}**")
-            ans = st.radio(f"Select meaning for Q{i+1}", q['options'], key=f"mcq_{i}", label_visibility="collapsed")
+            shuffled_options = get_shuffled_options(q['question'], q['options'])
+            ans = st.radio(f"Select meaning for Q{i+1}", shuffled_options, key=f"mcq_{i}", label_visibility="collapsed")
             mcq_answers.append(ans)
             st.write("")
             
@@ -28,7 +36,8 @@ def render():
         fill_answers = []
         for i, q in enumerate(quiz_data['sentence_fill']):
             st.write(f"**{i+11}. {q['question']}**")
-            ans = st.selectbox(f"Select word for Q{i+11}", ["Select..."] + q['options'], key=f"fill_{i}", label_visibility="collapsed")
+            shuffled_options = get_shuffled_options(q['question'], q['options'])
+            ans = st.selectbox(f"Select word for Q{i+11}", ["Select..."] + shuffled_options, key=f"fill_{i}", label_visibility="collapsed")
             fill_answers.append(ans)
             st.write("")
             
