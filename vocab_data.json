@@ -663,6 +663,338 @@
           }
         ]
       }
+    },
+    {
+      "id": 3,
+      "title": "Class 3: Words 21-30",
+      "words": [
+        {
+          "word": "abuse",
+          "pos": "noun",
+          "syllables": "a-buse (2 syllables)",
+          "pronunciation_en": "uh-byoos",
+          "pronunciation_ta": "அ-பியூஸ்",
+          "meaning_en": "cruel or inhumane treatment",
+          "meaning_ta": "துஷ்பிரயோகம் / கொடூரமான சிகிச்சை",
+          "example_en": "The child showed signs of physical abuse.",
+          "example_ta": "குழந்தைக்கு உடல் ரீதியான துஷ்பிரயோகத்தின் அறிகுறிகள் காணப்பட்டன.",
+          "image": "assets/images/vocab_abuse.jpg"
+        },
+        {
+          "word": "abysmal",
+          "pos": "adjective",
+          "syllables": "a-bys-mal (3 syllables)",
+          "pronunciation_en": "uh-biz-muhl",
+          "pronunciation_ta": "அ-பிஸ்-மல்",
+          "meaning_en": "extremely bad",
+          "meaning_ta": "மிகவும் மோசமான",
+          "example_en": "The team's performance this season was truly abysmal.",
+          "example_ta": "இந்த சீசனில் அணியின் செயல்பாடு உண்மையிலேயே மிகவும் மோசமாக இருந்தது.",
+          "image": "assets/images/vocab_abysmal.jpg"
+        },
+        {
+          "word": "academic",
+          "pos": "noun",
+          "syllables": "ac-a-dem-ic (4 syllables)",
+          "pronunciation_en": "ak-uh-dem-ik",
+          "pronunciation_ta": "அக்-அ-டெம்-இக்",
+          "meaning_en": "an educator who works at a college or university",
+          "meaning_ta": "கல்லூரி அல்லது பல்கலைக்கழக கல்வியாளர்",
+          "example_en": "The academic published several papers on history.",
+          "example_ta": "அந்த கல்வியாளர் வரலாறு குறித்து பல கட்டுரைகளை வெளியிட்டார்.",
+          "image": "assets/images/vocab_academic.jpg"
+        },
+        {
+          "word": "accent",
+          "pos": "noun",
+          "syllables": "ac-cent (2 syllables)",
+          "pronunciation_en": "ak-sent",
+          "pronunciation_ta": "அக்-சென்ட்",
+          "meaning_en": "distinctive manner of oral expression",
+          "meaning_ta": "பேச்சு வழக்கு / உச்சரிப்பு முறை",
+          "example_en": "He spoke English with a strong French accent.",
+          "example_ta": "அவர் வலுவான பிரெஞ்சு உச்சரிப்புடன் ஆங்கிலம் பேசினார்.",
+          "image": "assets/images/vocab_accent.jpg"
+        },
+        {
+          "word": "accept",
+          "pos": "verb",
+          "syllables": "ac-cept (2 syllables)",
+          "pronunciation_en": "ak-sept",
+          "pronunciation_ta": "அக்-செப்ட்",
+          "meaning_en": "consider or hold as true; to receive willingly",
+          "meaning_ta": "ஏற்றுக்கொள்",
+          "example_en": "She decided to accept the job offer.",
+          "example_ta": "வேலை வாய்ப்பை ஏற்க அவள் முடிவு செய்தாள்.",
+          "image": "assets/images/vocab_accept.jpg"
+        },
+        {
+          "word": "acceptable",
+          "pos": "adjective",
+          "syllables": "ac-cept-a-ble (4 syllables)",
+          "pronunciation_en": "ak-sep-tuh-buhl",
+          "pronunciation_ta": "அக்-செப்-ட-பிள்",
+          "meaning_en": "worthy of acceptance or satisfactory",
+          "meaning_ta": "ஏற்றுக்கொள்ளக்கூடிய",
+          "example_en": "The radiation was at an acceptable level.",
+          "example_ta": "கதிர்வீச்சு ஏற்றுக்கொள்ளக்கூடிய அளவில் இருந்தது.",
+          "image": "assets/images/vocab_acceptable.jpg"
+        },
+        {
+          "word": "access",
+          "pos": "noun",
+          "syllables": "ac-cess (2 syllables)",
+          "pronunciation_en": "ak-ses",
+          "pronunciation_ta": "அக்-செஸ்",
+          "meaning_en": "the right to enter",
+          "meaning_ta": "நுழைவதற்கான உரிமை / அணுகல்",
+          "example_en": "Only employees have access to this building.",
+          "example_ta": "ஊழியர்களுக்கு மட்டுமே இந்த கட்டிடத்தை அணுக உரிமை உள்ளது.",
+          "image": "assets/images/vocab_access.jpg"
+        },
+        {
+          "word": "accident",
+          "pos": "noun",
+          "syllables": "ac-ci-dent (3 syllables)",
+          "pronunciation_en": "ak-si-duhnt",
+          "pronunciation_ta": "அக்-சி-டன்ட்",
+          "meaning_en": "an unfortunate mishap; especially one causing damage or injury",
+          "meaning_ta": "விபத்து",
+          "example_en": "He broke his leg in a car accident.",
+          "example_ta": "கார் விபத்தில் அவனது கால் உடைந்தது.",
+          "image": "assets/images/vocab_accident.jpg"
+        },
+        {
+          "word": "accidental",
+          "pos": "noun",
+          "syllables": "ac-ci-den-tal (4 syllables)",
+          "pronunciation_en": "ak-si-den-tl",
+          "pronunciation_ta": "அக்-சி-டென்-டல்",
+          "meaning_en": "a musical notation that makes a note sharp or flat or natural",
+          "meaning_ta": "இசைக் குறியீடு (சுதி மாற்றுதல்)",
+          "example_en": "The composer added an accidental to change the key.",
+          "example_ta": "சுருதியை மாற்ற இசையமைப்பாளர் ஒரு ஆக்சிடென்டலை சேர்த்தார்.",
+          "image": "assets/images/vocab_accidental.jpg"
+        },
+        {
+          "word": "accidentally",
+          "pos": "adverb",
+          "syllables": "ac-ci-den-tal-ly (5 syllables)",
+          "pronunciation_en": "ak-si-den-tl-ee",
+          "pronunciation_ta": "அக்-சி-டென்-டல்-லீ",
+          "meaning_en": "without advance planning; by chance",
+          "meaning_ta": "எதிர்பாராமல் / தற்செயலாக",
+          "example_en": "I accidentally deleted the important file.",
+          "example_ta": "நான் தற்செயலாக முக்கியமான கோப்பை அழித்துவிட்டேன்.",
+          "image": "assets/images/vocab_accidentally.jpg"
+        }
+      ],
+      "quiz": {
+        "meaning_mcq": [
+          {
+            "question": "What is the meaning of 'abuse'?",
+            "options": [
+              "cruel or inhumane treatment",
+              "to help someone",
+              "an educator",
+              "distinctive speech"
+            ],
+            "answer": "cruel or inhumane treatment"
+          },
+          {
+            "question": "What is the meaning of 'abysmal'?",
+            "options": [
+              "extremely bad",
+              "very good",
+              "acceptable",
+              "musical notation"
+            ],
+            "answer": "extremely bad"
+          },
+          {
+            "question": "What is the meaning of 'academic'?",
+            "options": [
+              "an educator who works at a college or university",
+              "a student",
+              "a foreign country",
+              "cruel treatment"
+            ],
+            "answer": "an educator who works at a college or university"
+          },
+          {
+            "question": "What is the meaning of 'accent'?",
+            "options": [
+              "distinctive manner of oral expression",
+              "clothing style",
+              "an unfortunate mishap",
+              "right to enter"
+            ],
+            "answer": "distinctive manner of oral expression"
+          },
+          {
+            "question": "What is the meaning of 'accept'?",
+            "options": [
+              "consider or hold as true; receive willingly",
+              "to refuse",
+              "without planning",
+              "to drop something"
+            ],
+            "answer": "consider or hold as true; receive willingly"
+          },
+          {
+            "question": "What is the meaning of 'acceptable'?",
+            "options": [
+              "worthy of acceptance or satisfactory",
+              "terrible",
+              "cruel",
+              "foreign"
+            ],
+            "answer": "worthy of acceptance or satisfactory"
+          },
+          {
+            "question": "What is the meaning of 'access'?",
+            "options": [
+              "the right to enter",
+              "to leave quickly",
+              "a car crash",
+              "a musical notation"
+            ],
+            "answer": "the right to enter"
+          },
+          {
+            "question": "What is the meaning of 'accident'?",
+            "options": [
+              "an unfortunate mishap; especially one causing damage or injury",
+              "a planned event",
+              "a university educator",
+              "a speech pattern"
+            ],
+            "answer": "an unfortunate mishap; especially one causing damage or injury"
+          },
+          {
+            "question": "What is the meaning of 'accidental' (as a noun)?",
+            "options": [
+              "a musical notation that makes a note sharp or flat or natural",
+              "a terrible event",
+              "a happy surprise",
+              "an educator"
+            ],
+            "answer": "a musical notation that makes a note sharp or flat or natural"
+          },
+          {
+            "question": "What is the meaning of 'accidentally'?",
+            "options": [
+              "without advance planning; by chance",
+              "on purpose",
+              "very slowly",
+              "extremely badly"
+            ],
+            "answer": "without advance planning; by chance"
+          }
+        ],
+        "sentence_fill": [
+          {
+            "question": "The child showed signs of physical ______.",
+            "options": [
+              "abuse",
+              "abysmal",
+              "accent",
+              "access"
+            ],
+            "answer": "abuse"
+          },
+          {
+            "question": "The team's performance this season was truly ______.",
+            "options": [
+              "abysmal",
+              "acceptable",
+              "accidental",
+              "abuse"
+            ],
+            "answer": "abysmal"
+          },
+          {
+            "question": "The ______ published several papers on history.",
+            "options": [
+              "academic",
+              "accent",
+              "access",
+              "accident"
+            ],
+            "answer": "academic"
+          },
+          {
+            "question": "He spoke English with a strong French ______.",
+            "options": [
+              "accent",
+              "academic",
+              "access",
+              "accident"
+            ],
+            "answer": "accent"
+          },
+          {
+            "question": "She decided to ______ the job offer.",
+            "options": [
+              "accept",
+              "abuse",
+              "access",
+              "accident"
+            ],
+            "answer": "accept"
+          },
+          {
+            "question": "The radiation was at an ______ level.",
+            "options": [
+              "acceptable",
+              "abysmal",
+              "accidental",
+              "abuse"
+            ],
+            "answer": "acceptable"
+          },
+          {
+            "question": "Only employees have ______ to this building.",
+            "options": [
+              "access",
+              "accent",
+              "academic",
+              "accident"
+            ],
+            "answer": "access"
+          },
+          {
+            "question": "He broke his leg in a car ______.",
+            "options": [
+              "accident",
+              "access",
+              "accent",
+              "academic"
+            ],
+            "answer": "accident"
+          },
+          {
+            "question": "The composer added an ______ to change the key.",
+            "options": [
+              "accidental",
+              "abysmal",
+              "acceptable",
+              "accident"
+            ],
+            "answer": "accidental"
+          },
+          {
+            "question": "I ______ deleted the important file.",
+            "options": [
+              "accidentally",
+              "accept",
+              "abuse",
+              "access"
+            ],
+            "answer": "accidentally"
+          }
+        ]
+      }
     }
   ]
 }
