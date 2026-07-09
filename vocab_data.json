@@ -995,6 +995,338 @@
           }
         ]
       }
+    },
+    {
+      "id": 4,
+      "title": "Class 4: Words 31-40",
+      "words": [
+        {
+          "word": "accolade",
+          "pos": "noun",
+          "syllables": "ac-co-lade (3 syllables)",
+          "pronunciation_en": "ak-uh-leyd",
+          "pronunciation_ta": "அக்-கொ-லேட்",
+          "meaning_en": "an award or praise granted as a special honor",
+          "meaning_ta": "பாராட்டு / விருது",
+          "example_en": "She received the highest accolade of her career—a golden trophy.",
+          "example_ta": "அவள் தனது தொழில் வாழ்க்கையின் மிக உயர்ந்த விருதான தங்கக் கோப்பையைப் பெற்றாள்.",
+          "image": "assets/images/vocab_accolade.jpg"
+        },
+        {
+          "word": "accommodation",
+          "pos": "noun",
+          "syllables": "ac-com-mo-da-tion (5 syllables)",
+          "pronunciation_en": "uh-kom-uh-dey-shuhn",
+          "pronunciation_ta": "அக்-காம்-ம-டே-ஷன்",
+          "meaning_en": "making or becoming suitable; adjusting to circumstances",
+          "meaning_ta": "இணக்கப்பாடு / தங்குமிடம்",
+          "example_en": "They reached an accommodation regarding the new work schedule.",
+          "example_ta": "புதிய வேலை அட்டவணை குறித்து அவர்கள் ஒரு இணக்கப்பாட்டை எட்டினர்.",
+          "image": "assets/images/vocab_accommodation.jpg"
+        },
+        {
+          "word": "accompany",
+          "pos": "verb",
+          "syllables": "ac-com-pa-ny (4 syllables)",
+          "pronunciation_en": "uh-kuhm-puh-nee",
+          "pronunciation_ta": "அக்-கம்-ப-னி",
+          "meaning_en": "be present or associated with an event or entity",
+          "meaning_ta": "உடன் செல் / துணையாக இரு",
+          "example_en": "I will accompany you to the doctor's appointment.",
+          "example_ta": "நான் மருத்துவரை காண உன்னுடன் வருவேன்.",
+          "image": "assets/images/vocab_accompany.jpg"
+        },
+        {
+          "word": "according",
+          "pos": "verb",
+          "syllables": "ac-cord-ing (3 syllables)",
+          "pronunciation_en": "uh-kawr-ding",
+          "pronunciation_ta": "அக்-கார்-டிங்",
+          "meaning_en": "go together; harmonize",
+          "meaning_ta": "இணங்கிச் செல் / அதன்படி",
+          "example_en": "Everything went according to our plan.",
+          "example_ta": "எல்லாம் எங்கள் திட்டப்படி நடந்தது.",
+          "image": "assets/images/vocab_according.jpg"
+        },
+        {
+          "word": "account",
+          "pos": "noun",
+          "syllables": "ac-count (2 syllables)",
+          "pronunciation_en": "uh-kount",
+          "pronunciation_ta": "அக்-கவுன்ட்",
+          "meaning_en": "a record or narrative description of past events",
+          "meaning_ta": "கணக்கு / விளக்கம்",
+          "example_en": "She gave a detailed account of her travels.",
+          "example_ta": "அவள் தனது பயணங்களைப் பற்றிய விரிவான விளக்கத்தை அளித்தாள்.",
+          "image": "assets/images/vocab_account.jpg"
+        },
+        {
+          "word": "accurate",
+          "pos": "adjective",
+          "syllables": "ac-cu-rate (3 syllables)",
+          "pronunciation_en": "ak-yuh-rit",
+          "pronunciation_ta": "அக்-யூ-ரேட்",
+          "meaning_en": "conforming exactly or almost exactly to fact or standard",
+          "meaning_ta": "துல்லியமான",
+          "example_en": "The clock provides a very accurate measurement of time.",
+          "example_ta": "கடிகாரம் நேரத்தை மிகவும் துல்லியமாக அளவிடுகிறது.",
+          "image": "assets/images/vocab_accurate.jpg"
+        },
+        {
+          "word": "accurately",
+          "pos": "adverb",
+          "syllables": "ac-cu-rate-ly (4 syllables)",
+          "pronunciation_en": "ak-yuh-rit-lee",
+          "pronunciation_ta": "அக்-யூ-ரேட்-லீ",
+          "meaning_en": "with few mistakes; correctly",
+          "meaning_ta": "துல்லியமாக",
+          "example_en": "He aimed and accurately hit the target.",
+          "example_ta": "அவன் குறிபார்த்து இலக்கை துல்லியமாக அடித்தான்.",
+          "image": "assets/images/vocab_accurately.jpg"
+        },
+        {
+          "word": "accuse",
+          "pos": "verb",
+          "syllables": "ac-cuse (2 syllables)",
+          "pronunciation_en": "uh-kyooz",
+          "pronunciation_ta": "அக்-யூஸ்",
+          "meaning_en": "bring an accusation against; level a charge against",
+          "meaning_ta": "குற்றம் சாட்டு",
+          "example_en": "They accuse him of stealing the money.",
+          "example_ta": "அவர் பணத்தை திருடியதாக அவர்கள் குற்றம் சாட்டுகிறார்கள்.",
+          "image": "assets/images/vocab_accuse.jpg"
+        },
+        {
+          "word": "acerbic",
+          "pos": "adjective",
+          "syllables": "a-cer-bic (3 syllables)",
+          "pronunciation_en": "uh-sur-bik",
+          "pronunciation_ta": "அ-செர்-பிக்",
+          "meaning_en": "harsh in tone; tasting sour or bitter",
+          "meaning_ta": "கடுமையான (பேச்சு) / கசப்பான",
+          "example_en": "The critic's review of the movie was extremely acerbic.",
+          "example_ta": "திரைப்படம் குறித்த விமர்சகரின் விமர்சனம் மிகவும் கடுமையாக இருந்தது.",
+          "image": "assets/images/vocab_acerbic.jpg"
+        },
+        {
+          "word": "achieve",
+          "pos": "verb",
+          "syllables": "a-chieve (2 syllables)",
+          "pronunciation_en": "uh-cheev",
+          "pronunciation_ta": "அ-சீவ்",
+          "meaning_en": "to gain with effort",
+          "meaning_ta": "சாதித்தல் / அடைதல்",
+          "example_en": "She worked hard to achieve her goals.",
+          "example_ta": "அவள் தனது இலக்குகளை அடைய கடினமாக உழைத்தாள்.",
+          "image": "assets/images/vocab_achieve.jpg"
+        }
+      ],
+      "quiz": {
+        "meaning_mcq": [
+          {
+            "question": "What is the meaning of 'accolade'?",
+            "options": [
+              "an award or praise granted as a special honor",
+              "a harsh tone",
+              "to go together",
+              "with few mistakes"
+            ],
+            "answer": "an award or praise granted as a special honor"
+          },
+          {
+            "question": "What is the meaning of 'accommodation'?",
+            "options": [
+              "making or becoming suitable; adjusting to circumstances",
+              "to accuse someone",
+              "to achieve a goal",
+              "extremely bad"
+            ],
+            "answer": "making or becoming suitable; adjusting to circumstances"
+          },
+          {
+            "question": "What is the meaning of 'accompany'?",
+            "options": [
+              "be present or associated with an event or entity",
+              "to abandon",
+              "to make accurate",
+              "to praise"
+            ],
+            "answer": "be present or associated with an event or entity"
+          },
+          {
+            "question": "What is the meaning of 'according'?",
+            "options": [
+              "go together; harmonize",
+              "a record of events",
+              "to reach a goal",
+              "cruel treatment"
+            ],
+            "answer": "go together; harmonize"
+          },
+          {
+            "question": "What is the meaning of 'account'?",
+            "options": [
+              "a record or narrative description of past events",
+              "to level a charge against",
+              "a musical notation",
+              "harsh in tone"
+            ],
+            "answer": "a record or narrative description of past events"
+          },
+          {
+            "question": "What is the meaning of 'accurate'?",
+            "options": [
+              "conforming exactly or almost exactly to fact or standard",
+              "foreign",
+              "an unfortunate mishap",
+              "a sharp taste"
+            ],
+            "answer": "conforming exactly or almost exactly to fact or standard"
+          },
+          {
+            "question": "What is the meaning of 'accurately'?",
+            "options": [
+              "with few mistakes; correctly",
+              "without advance planning",
+              "to go away",
+              "completely"
+            ],
+            "answer": "with few mistakes; correctly"
+          },
+          {
+            "question": "What is the meaning of 'accuse'?",
+            "options": [
+              "bring an accusation against; level a charge against",
+              "to praise",
+              "to be present",
+              "to harmonize"
+            ],
+            "answer": "bring an accusation against; level a charge against"
+          },
+          {
+            "question": "What is the meaning of 'acerbic'?",
+            "options": [
+              "harsh in tone; tasting sour or bitter",
+              "open and honest",
+              "very accurate",
+              "to gain with effort"
+            ],
+            "answer": "harsh in tone; tasting sour or bitter"
+          },
+          {
+            "question": "What is the meaning of 'achieve'?",
+            "options": [
+              "to gain with effort",
+              "to revoke formally",
+              "to accompany",
+              "to make suitable"
+            ],
+            "answer": "to gain with effort"
+          }
+        ],
+        "sentence_fill": [
+          {
+            "question": "She received the highest ______ of her career.",
+            "options": [
+              "accolade",
+              "account",
+              "accommodation",
+              "accent"
+            ],
+            "answer": "accolade"
+          },
+          {
+            "question": "They reached an ______ regarding the new work schedule.",
+            "options": [
+              "accommodation",
+              "accolade",
+              "account",
+              "access"
+            ],
+            "answer": "accommodation"
+          },
+          {
+            "question": "I will ______ you to the doctor's appointment.",
+            "options": [
+              "accompany",
+              "accuse",
+              "achieve",
+              "accept"
+            ],
+            "answer": "accompany"
+          },
+          {
+            "question": "Everything went ______ to our plan.",
+            "options": [
+              "according",
+              "accurately",
+              "accompany",
+              "acerbic"
+            ],
+            "answer": "according"
+          },
+          {
+            "question": "She gave a detailed ______ of her travels.",
+            "options": [
+              "account",
+              "accommodation",
+              "accolade",
+              "accident"
+            ],
+            "answer": "account"
+          },
+          {
+            "question": "The clock provides a very ______ measurement of time.",
+            "options": [
+              "accurate",
+              "acerbic",
+              "abysmal",
+              "acceptable"
+            ],
+            "answer": "accurate"
+          },
+          {
+            "question": "He aimed and ______ hit the target.",
+            "options": [
+              "accurately",
+              "accidentally",
+              "absolutely",
+              "according"
+            ],
+            "answer": "accurately"
+          },
+          {
+            "question": "They ______ him of stealing the money.",
+            "options": [
+              "accuse",
+              "accompany",
+              "achieve",
+              "absorb"
+            ],
+            "answer": "accuse"
+          },
+          {
+            "question": "The critic's review of the movie was extremely ______.",
+            "options": [
+              "acerbic",
+              "accurate",
+              "abysmal",
+              "aboveboard"
+            ],
+            "answer": "acerbic"
+          },
+          {
+            "question": "She worked hard to ______ her goals.",
+            "options": [
+              "achieve",
+              "accuse",
+              "accompany",
+              "abstain"
+            ],
+            "answer": "achieve"
+          }
+        ]
+      }
     }
   ]
 }
