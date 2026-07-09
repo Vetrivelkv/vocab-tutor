@@ -766,14 +766,14 @@
         },
         {
           "word": "accidental",
-          "pos": "noun",
+          "pos": "adjective",
           "syllables": "ac-ci-den-tal (4 syllables)",
           "pronunciation_en": "ak-si-den-tl",
           "pronunciation_ta": "அக்-சி-டென்-டல்",
-          "meaning_en": "a musical notation that makes a note sharp or flat or natural",
-          "meaning_ta": "இசைக் குறியீடு (சுதி மாற்றுதல்)",
-          "example_en": "The composer added an accidental to change the key.",
-          "example_ta": "சுருதியை மாற்ற இசையமைப்பாளர் ஒரு ஆக்சிடென்டலை சேர்த்தார்.",
+          "meaning_en": "happening by chance, unintentionally, or unexpectedly",
+          "meaning_ta": "தற்செயலான / எதிர்பாராத",
+          "example_en": "We had an accidental meeting at the coffee shop.",
+          "example_ta": "காபி கடையில் எங்களுக்கு ஒரு தற்செயலான சந்திப்பு ஏற்பட்டது.",
           "image": "assets/images/vocab_accidental.jpg"
         },
         {
@@ -872,14 +872,14 @@
             "answer": "an unfortunate mishap; especially one causing damage or injury"
           },
           {
-            "question": "What is the meaning of 'accidental' (as a noun)?",
+            "question": "What is the meaning of 'accidental'?",
             "options": [
-              "a musical notation that makes a note sharp or flat or natural",
+              "happening by chance, unintentionally",
+              "a musical notation",
               "a terrible event",
-              "a happy surprise",
               "an educator"
             ],
-            "answer": "a musical notation that makes a note sharp or flat or natural"
+            "answer": "happening by chance, unintentionally"
           },
           {
             "question": "What is the meaning of 'accidentally'?",
@@ -974,7 +974,7 @@
             "answer": "accident"
           },
           {
-            "question": "The composer added an ______ to change the key.",
+            "question": "We had an ______ meeting at the coffee shop.",
             "options": [
               "accidental",
               "abysmal",
