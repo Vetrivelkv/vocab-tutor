@@ -1327,6 +1327,338 @@
           }
         ]
       }
+    },
+    {
+      "id": 5,
+      "title": "Class 5: Words 41-50",
+      "words": [
+        {
+          "word": "achievement",
+          "pos": "noun",
+          "syllables": "a-chieve-ment (3 syllables)",
+          "pronunciation_en": "uh-cheev-muhnt",
+          "pronunciation_ta": "அ-சீவ்-மென்ட்",
+          "meaning_en": "the action of accomplishing something successfully",
+          "meaning_ta": "சாதனை / வெற்றிகரமாக செய்து முடித்தல்",
+          "example_en": "Winning the championship was a monumental achievement.",
+          "example_ta": "சாம்பியன் பட்டத்தை வென்றது ஒரு மாபெரும் சாதனையாகும்.",
+          "image": "assets/images/vocab_achievement.jpg"
+        },
+        {
+          "word": "acid",
+          "pos": "noun",
+          "syllables": "ac-id (2 syllables)",
+          "pronunciation_en": "as-id",
+          "pronunciation_ta": "ஆசிட்",
+          "meaning_en": "a sour water-soluble compound that reacts with a base",
+          "meaning_ta": "அமிலம் / புளிப்பான வேதிப்பொருள்",
+          "example_en": "Lemon juice contains citric acid.",
+          "example_ta": "எலுமிச்சை சாற்றில் சிட்ரிக் அமிலம் உள்ளது.",
+          "image": "assets/images/vocab_acid.jpg"
+        },
+        {
+          "word": "acknowledge",
+          "pos": "verb",
+          "syllables": "ac-knowl-edge (3 syllables)",
+          "pronunciation_en": "ak-nol-ij",
+          "pronunciation_ta": "அக்-நாலெஜ்",
+          "meaning_en": "declare to be true or admit the existence or reality of",
+          "meaning_ta": "உண்மையை ஒப்புக்கொள் / ஏற்றுக்கொள்",
+          "example_en": "He refused to acknowledge his mistake.",
+          "example_ta": "அவர் தனது தவற்றை ஒப்புக்கொள்ள மறுத்துவிட்டார்.",
+          "image": "assets/images/vocab_acknowledge.jpg"
+        },
+        {
+          "word": "acme",
+          "pos": "noun",
+          "syllables": "ac-me (2 syllables)",
+          "pronunciation_en": "ak-mee",
+          "pronunciation_ta": "ஆக்-மி",
+          "meaning_en": "the highest point of achievement or excellence",
+          "meaning_ta": "உச்சம் / மிக உயர்ந்த நிலை",
+          "example_en": "His performance was the acme of his acting career.",
+          "example_ta": "அவரது நடிப்பு அவரது நடிப்பு வாழ்க்கையின் உச்சமாக இருந்தது.",
+          "image": "assets/images/vocab_acme.jpg"
+        },
+        {
+          "word": "acquire",
+          "pos": "verb",
+          "syllables": "ac-quire (2 syllables)",
+          "pronunciation_en": "uh-kwahyuh r",
+          "pronunciation_ta": "அக்-வயர்",
+          "meaning_en": "come into the possession of something; to get or gain",
+          "meaning_ta": "பெறுதல் / சம்பாதித்தல்",
+          "example_en": "She managed to acquire a rare painting for her collection.",
+          "example_ta": "அவள் தனது சேகரிப்புக்காக ஒரு அரிய ஓவியத்தைப் பெற முடிந்தது.",
+          "image": "assets/images/vocab_acquire.jpg"
+        },
+        {
+          "word": "acrimony",
+          "pos": "noun",
+          "syllables": "ac-ri-mo-ny (4 syllables)",
+          "pronunciation_en": "ak-ruh-moh-nee",
+          "pronunciation_ta": "அக்-ரி-மோ-னி",
+          "meaning_en": "bitterness and ill will in speech or behavior",
+          "meaning_ta": "கடுஞ்சொல் / கசப்புணர்வு",
+          "example_en": "The dispute was settled without any acrimony.",
+          "example_ta": "எந்தவித கசப்புணர்வும் இன்றி தகராறு தீர்க்கப்பட்டது.",
+          "image": "assets/images/vocab_acrimony.jpg"
+        },
+        {
+          "word": "across",
+          "pos": "adverb",
+          "syllables": "a-cross (2 syllables)",
+          "pronunciation_en": "uh-kraws",
+          "pronunciation_ta": "அ-க்ராஸ்",
+          "meaning_en": "to the opposite side",
+          "meaning_ta": "குறுக்கே / அக்கரைக்கு",
+          "example_en": "We swam across the river safely.",
+          "example_ta": "நாங்கள் ஆற்றின் குறுக்கே பாதுகாப்பாக நீந்தினோம்.",
+          "image": "assets/images/vocab_across.jpg"
+        },
+        {
+          "word": "act",
+          "pos": "noun",
+          "syllables": "act (1 syllable)",
+          "pronunciation_en": "akt",
+          "pronunciation_ta": "ஆக்ட்",
+          "meaning_en": "a legal document from a legislative body; or a deed done",
+          "meaning_ta": "சட்டம் / செயல்",
+          "example_en": "The new environmental act was passed by parliament.",
+          "example_ta": "புதிய சுற்றுச்சூழல் சட்டம் பாராளுமன்றத்தால் நிறைவேற்றப்பட்டது.",
+          "image": "assets/images/vocab_act.jpg"
+        },
+        {
+          "word": "action",
+          "pos": "noun",
+          "syllables": "ac-tion (2 syllables)",
+          "pronunciation_en": "ak-shuhn",
+          "pronunciation_ta": "ஆக்-ஷன்",
+          "meaning_en": "something done; the process of doing something",
+          "meaning_ta": "நடவடிக்கை / செயல்",
+          "example_en": "The manager demanded immediate action to fix the problem.",
+          "example_ta": "பிரச்சனையை சரிசெய்ய உடனடி நடவடிக்கை எடுக்க மேலாளர் கோரினார்.",
+          "image": "assets/images/vocab_action.jpg"
+        },
+        {
+          "word": "active",
+          "pos": "noun",
+          "syllables": "ac-tive (2 syllables)",
+          "pronunciation_en": "ak-tiv",
+          "pronunciation_ta": "ஆக்டிவ்",
+          "meaning_en": "a chemical agent capable of activity",
+          "meaning_ta": "செயல்பாட்டில் உள்ள வேதிப்பொருள்",
+          "example_en": "The lotion contains a powerful active to soothe the skin.",
+          "example_ta": "லோஷனில் சருமத்தை ஆற்றும் சக்திவாய்ந்த செயல்படும் பொருள் உள்ளது.",
+          "image": "assets/images/vocab_active.jpg"
+        }
+      ],
+      "quiz": {
+        "meaning_mcq": [
+          {
+            "question": "What is the meaning of 'achievement'?",
+            "options": [
+              "the action of accomplishing something successfully",
+              "a legal document",
+              "a sour chemical",
+              "bitterness"
+            ],
+            "answer": "the action of accomplishing something successfully"
+          },
+          {
+            "question": "What is the meaning of 'acid'?",
+            "options": [
+              "a sour water-soluble compound that reacts with a base",
+              "the highest point",
+              "to the opposite side",
+              "a deed done"
+            ],
+            "answer": "a sour water-soluble compound that reacts with a base"
+          },
+          {
+            "question": "What is the meaning of 'acknowledge'?",
+            "options": [
+              "declare to be true or admit the existence of",
+              "come into possession of",
+              "to speak harshly",
+              "a chemical agent"
+            ],
+            "answer": "declare to be true or admit the existence of"
+          },
+          {
+            "question": "What is the meaning of 'acme'?",
+            "options": [
+              "the highest point of achievement or excellence",
+              "an unfortunate mishap",
+              "a sour liquid",
+              "bitterness and ill will"
+            ],
+            "answer": "the highest point of achievement or excellence"
+          },
+          {
+            "question": "What is the meaning of 'acquire'?",
+            "options": [
+              "come into the possession of something; to get or gain",
+              "to admit truth",
+              "to cross a river",
+              "to act out"
+            ],
+            "answer": "come into the possession of something; to get or gain"
+          },
+          {
+            "question": "What is the meaning of 'acrimony'?",
+            "options": [
+              "bitterness and ill will in speech or behavior",
+              "an award or praise",
+              "the highest point",
+              "a legal document"
+            ],
+            "answer": "bitterness and ill will in speech or behavior"
+          },
+          {
+            "question": "What is the meaning of 'across'?",
+            "options": [
+              "to the opposite side",
+              "to accomplish something",
+              "to gain possession",
+              "a chemical substance"
+            ],
+            "answer": "to the opposite side"
+          },
+          {
+            "question": "What is the meaning of 'act' (as a noun)?",
+            "options": [
+              "a legal document from a legislative body; or a deed done",
+              "a sour taste",
+              "an award",
+              "bitterness"
+            ],
+            "answer": "a legal document from a legislative body; or a deed done"
+          },
+          {
+            "question": "What is the meaning of 'action'?",
+            "options": [
+              "something done; the process of doing something",
+              "the opposite side",
+              "a high peak",
+              "a sour compound"
+            ],
+            "answer": "something done; the process of doing something"
+          },
+          {
+            "question": "What is the meaning of 'active' (as a noun)?",
+            "options": [
+              "a chemical agent capable of activity",
+              "a legal document",
+              "ill will",
+              "to gain with effort"
+            ],
+            "answer": "a chemical agent capable of activity"
+          }
+        ],
+        "sentence_fill": [
+          {
+            "question": "Winning the championship was a monumental ______.",
+            "options": [
+              "achievement",
+              "acrimony",
+              "acid",
+              "act"
+            ],
+            "answer": "achievement"
+          },
+          {
+            "question": "Lemon juice contains citric ______.",
+            "options": [
+              "acid",
+              "acme",
+              "active",
+              "action"
+            ],
+            "answer": "acid"
+          },
+          {
+            "question": "He refused to ______ his mistake.",
+            "options": [
+              "acknowledge",
+              "acquire",
+              "act",
+              "accompany"
+            ],
+            "answer": "acknowledge"
+          },
+          {
+            "question": "His performance was the ______ of his acting career.",
+            "options": [
+              "acme",
+              "achievement",
+              "acrimony",
+              "active"
+            ],
+            "answer": "acme"
+          },
+          {
+            "question": "She managed to ______ a rare painting for her collection.",
+            "options": [
+              "acquire",
+              "acknowledge",
+              "achieve",
+              "act"
+            ],
+            "answer": "acquire"
+          },
+          {
+            "question": "The dispute was settled without any ______.",
+            "options": [
+              "acrimony",
+              "achievement",
+              "action",
+              "acid"
+            ],
+            "answer": "acrimony"
+          },
+          {
+            "question": "We swam ______ the river safely.",
+            "options": [
+              "across",
+              "active",
+              "acid",
+              "acme"
+            ],
+            "answer": "across"
+          },
+          {
+            "question": "The new environmental ______ was passed by parliament.",
+            "options": [
+              "act",
+              "action",
+              "achievement",
+              "acme"
+            ],
+            "answer": "act"
+          },
+          {
+            "question": "The manager demanded immediate ______ to fix the problem.",
+            "options": [
+              "action",
+              "act",
+              "acme",
+              "acrimony"
+            ],
+            "answer": "action"
+          },
+          {
+            "question": "The lotion contains a powerful ______ to soothe the skin.",
+            "options": [
+              "active",
+              "acid",
+              "action",
+              "acme"
+            ],
+            "answer": "active"
+          }
+        ]
+      }
     }
   ]
 }
