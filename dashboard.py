@@ -5,7 +5,7 @@ def render():
     st.title("📚 Vocabulary Learning Dashboard")
     st.write("Welcome to the Ultimate English Vocabulary Tutor! Select a class below to start learning. You must score 100% on the quiz to unlock the next class.")
     
-    classes = st.session_state.vocab_data['classes']
+    classes = sorted(st.session_state.vocab_data.get('classes', []), key=lambda x: x.get('id', 0))
     
     # Sync unlocked classes from database
     user_id = st.session_state.user['id']
@@ -28,7 +28,9 @@ def render():
     for idx, c in enumerate(classes):
         col = cols[idx % 3]
         with col:
-            st.write(f"### {c['title']}")
+            date_str = c.get('created_at', '')
+            date_display = f" *(Created: {date_str})*" if date_str else ""
+            st.write(f"### {c['title']}{date_display}")
             is_unlocked = c['id'] in unlocked
             
             if is_unlocked:
