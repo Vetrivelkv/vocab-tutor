@@ -1659,6 +1659,338 @@
           }
         ]
       }
+    },
+    {
+      "id": 6,
+      "title": "Class 6: Words 51-60",
+      "words": [
+        {
+          "word": "actively",
+          "pos": "adverb",
+          "syllables": "ac-tive-ly (3 syllables)",
+          "pronunciation_en": "ak-tiv-lee",
+          "pronunciation_ta": "ஆக்டிவ்-லீ",
+          "meaning_en": "in an active manner",
+          "meaning_ta": "சுறுசுறுப்பாக / தீவிரமாக",
+          "example_en": "He participated actively in the war.",
+          "example_ta": "அவர் போரில் தீவிரமாக பங்கேற்றார்.",
+          "image": "assets/images/vocab_actively.jpg"
+        },
+        {
+          "word": "activity",
+          "pos": "noun",
+          "syllables": "ac-tiv-i-ty (4 syllables)",
+          "pronunciation_en": "ak-tiv-i-tee",
+          "pronunciation_ta": "ஆக்டிவிட்டி",
+          "meaning_en": "any specific behavior or action",
+          "meaning_ta": "செயல்பாடு",
+          "example_en": "They avoided all recreational activity.",
+          "example_ta": "அவர்கள் அனைத்து பொழுதுபோக்கு செயல்பாடுகளையும் தவிர்த்தனர்.",
+          "image": "assets/images/vocab_activity.jpg"
+        },
+        {
+          "word": "actor",
+          "pos": "noun",
+          "syllables": "ac-tor (2 syllables)",
+          "pronunciation_en": "ak-ter",
+          "pronunciation_ta": "ஆக்டர்",
+          "meaning_en": "a theatrical performer",
+          "meaning_ta": "நடிகர்",
+          "example_en": "The actor delivered a stunning performance on stage.",
+          "example_ta": "நடிகர் மேடையில் ஒரு அற்புதமான நடிப்பை வெளிப்படுத்தினார்.",
+          "image": "assets/images/vocab_actor.jpg"
+        },
+        {
+          "word": "actress",
+          "pos": "noun",
+          "syllables": "ac-tress (2 syllables)",
+          "pronunciation_en": "ak-tris",
+          "pronunciation_ta": "ஆக்ட்ரெஸ்",
+          "meaning_en": "a female actor",
+          "meaning_ta": "நடிகை",
+          "example_en": "The actress won an award for her leading role.",
+          "example_ta": "நடிகை தனது முன்னணி கதாபாத்திரத்திற்காக ஒரு விருதை வென்றார்.",
+          "image": "assets/images/vocab_actress.jpg"
+        },
+        {
+          "word": "actual",
+          "pos": "adjective",
+          "syllables": "ac-tu-al (3 syllables)",
+          "pronunciation_en": "ak-choo-uhl",
+          "pronunciation_ta": "ஆக்சுவல்",
+          "meaning_en": "presently existing in fact and not merely potential or possible",
+          "meaning_ta": "உண்மையான",
+          "example_en": "The predicted temperature and the actual temperature were markedly different.",
+          "example_ta": "கணிக்கப்பட்ட வெப்பநிலையும் உண்மையான வெப்பநிலையும் குறிப்பிடத்தக்க அளவு வேறுபட்டிருந்தன.",
+          "image": "assets/images/vocab_actual.jpg"
+        },
+        {
+          "word": "actually",
+          "pos": "adverb",
+          "syllables": "ac-tu-al-ly (4 syllables)",
+          "pronunciation_en": "ak-choo-uh-lee",
+          "pronunciation_ta": "ஆக்சுவலி",
+          "meaning_en": "in actual fact; really",
+          "meaning_ta": "உண்மையில்",
+          "example_en": "The country is nominally but not actually independent.",
+          "example_ta": "நாடு பெயரளவுக்கு மட்டுமே, உண்மையில் சுதந்திரமானதல்ல.",
+          "image": "assets/images/vocab_actually.jpg"
+        },
+        {
+          "word": "ad",
+          "pos": "noun",
+          "syllables": "ad (1 syllable)",
+          "pronunciation_en": "ad",
+          "pronunciation_ta": "ஆட்",
+          "meaning_en": "a public promotion of some product or service",
+          "meaning_ta": "விளம்பரம்",
+          "example_en": "I saw an ad for the new smartphone on a billboard.",
+          "example_ta": "புதிய ஸ்மார்ட்போனுக்கான விளம்பரத்தை நான் ஒரு பலகையில் பார்த்தேன்.",
+          "image": "assets/images/vocab_ad.jpg"
+        },
+        {
+          "word": "adamant",
+          "pos": "adjective",
+          "syllables": "ad-a-mant (3 syllables)",
+          "pronunciation_en": "ad-uh-muhnt",
+          "pronunciation_ta": "அடமன்ட்",
+          "meaning_en": "refusing to change one's mind; stubborn",
+          "meaning_ta": "பிடிவாதமான",
+          "example_en": "She was adamant about not giving up her seat.",
+          "example_ta": "அவள் தன் இருக்கையை விட்டுத்தர மாட்டேன் என்பதில் பிடிவாதமாக இருந்தாள்.",
+          "image": "assets/images/vocab_adamant.jpg"
+        },
+        {
+          "word": "adapt",
+          "pos": "verb",
+          "syllables": "a-dapt (2 syllables)",
+          "pronunciation_en": "uh-dapt",
+          "pronunciation_ta": "அடாப்ட்",
+          "meaning_en": "make fit for, or change to suit a new purpose",
+          "meaning_ta": "மாற்றியமை / ஏற்புடையதாக்கு",
+          "example_en": "We must adapt our native cuisine to the available food resources of the new country.",
+          "example_ta": "புதிய நாட்டின் கிடைக்கும் உணவு வளங்களுக்கு ஏற்ப நமது உணவை நாம் மாற்றியமைக்க வேண்டும்.",
+          "image": "assets/images/vocab_adapt.jpg"
+        },
+        {
+          "word": "add",
+          "pos": "noun",
+          "syllables": "add (1 syllable)",
+          "pronunciation_en": "ad",
+          "pronunciation_ta": "ஆட்",
+          "meaning_en": "a condition (mostly in boys) characterized by behavioral and learning disorders",
+          "meaning_ta": "கவனக்குறைவு குறைபாடு (ADD)",
+          "example_en": "The child was diagnosed with add.",
+          "example_ta": "குழந்தைக்கு ADD குறைபாடு இருப்பது கண்டறியப்பட்டது.",
+          "image": "assets/images/vocab_add.jpg"
+        }
+      ],
+      "quiz": {
+        "meaning_mcq": [
+          {
+            "question": "What is the meaning of 'actively'?",
+            "options": [
+              "in an active manner",
+              "to give up",
+              "to act on stage",
+              "a chemical substance"
+            ],
+            "answer": "in an active manner"
+          },
+          {
+            "question": "What is the meaning of 'activity'?",
+            "options": [
+              "any specific behavior or action",
+              "to make fit",
+              "a theatrical performer",
+              "a promotion"
+            ],
+            "answer": "any specific behavior or action"
+          },
+          {
+            "question": "What is the meaning of 'actor'?",
+            "options": [
+              "a theatrical performer",
+              "a female performer",
+              "a learning disorder",
+              "refusing to change mind"
+            ],
+            "answer": "a theatrical performer"
+          },
+          {
+            "question": "What is the meaning of 'actress'?",
+            "options": [
+              "a female actor",
+              "a public promotion",
+              "a behavior",
+              "existing in fact"
+            ],
+            "answer": "a female actor"
+          },
+          {
+            "question": "What is the meaning of 'actual'?",
+            "options": [
+              "presently existing in fact and not merely potential or possible",
+              "stubborn",
+              "in an active manner",
+              "a promotion"
+            ],
+            "answer": "presently existing in fact and not merely potential or possible"
+          },
+          {
+            "question": "What is the meaning of 'actually'?",
+            "options": [
+              "in actual fact; really",
+              "to perform",
+              "to change to suit",
+              "a learning disorder"
+            ],
+            "answer": "in actual fact; really"
+          },
+          {
+            "question": "What is the meaning of 'ad'?",
+            "options": [
+              "a public promotion of some product or service",
+              "a theatrical performer",
+              "any specific behavior",
+              "in an active manner"
+            ],
+            "answer": "a public promotion of some product or service"
+          },
+          {
+            "question": "What is the meaning of 'adamant'?",
+            "options": [
+              "refusing to change one's mind; stubborn",
+              "to make fit for",
+              "presently existing",
+              "a female actor"
+            ],
+            "answer": "refusing to change one's mind; stubborn"
+          },
+          {
+            "question": "What is the meaning of 'adapt'?",
+            "options": [
+              "make fit for, or change to suit a new purpose",
+              "a condition in boys",
+              "a public promotion",
+              "in actual fact"
+            ],
+            "answer": "make fit for, or change to suit a new purpose"
+          },
+          {
+            "question": "What is the meaning of 'add' (as a noun)?",
+            "options": [
+              "a condition characterized by behavioral and learning disorders",
+              "a public promotion",
+              "a theatrical performer",
+              "to change one's mind"
+            ],
+            "answer": "a condition characterized by behavioral and learning disorders"
+          }
+        ],
+        "sentence_fill": [
+          {
+            "question": "He participated ______ in the war.",
+            "options": [
+              "actively",
+              "actually",
+              "adamant",
+              "adapt"
+            ],
+            "answer": "actively"
+          },
+          {
+            "question": "They avoided all recreational ______.",
+            "options": [
+              "activity",
+              "actor",
+              "ad",
+              "add"
+            ],
+            "answer": "activity"
+          },
+          {
+            "question": "The ______ delivered a stunning performance on stage.",
+            "options": [
+              "actor",
+              "actress",
+              "activity",
+              "ad"
+            ],
+            "answer": "actor"
+          },
+          {
+            "question": "The ______ won an award for her leading role.",
+            "options": [
+              "actress",
+              "actor",
+              "actually",
+              "adamant"
+            ],
+            "answer": "actress"
+          },
+          {
+            "question": "The predicted temperature and the ______ temperature were markedly different.",
+            "options": [
+              "actual",
+              "actively",
+              "adamant",
+              "adapt"
+            ],
+            "answer": "actual"
+          },
+          {
+            "question": "The country is nominally but not ______ independent.",
+            "options": [
+              "actually",
+              "actively",
+              "actual",
+              "adamant"
+            ],
+            "answer": "actually"
+          },
+          {
+            "question": "I saw an ______ for the new smartphone on a billboard.",
+            "options": [
+              "ad",
+              "add",
+              "actor",
+              "activity"
+            ],
+            "answer": "ad"
+          },
+          {
+            "question": "She was ______ about not giving up her seat.",
+            "options": [
+              "adamant",
+              "actual",
+              "actively",
+              "adapt"
+            ],
+            "answer": "adamant"
+          },
+          {
+            "question": "We must ______ our native cuisine to the available food resources.",
+            "options": [
+              "adapt",
+              "add",
+              "actor",
+              "ad"
+            ],
+            "answer": "adapt"
+          },
+          {
+            "question": "The child was diagnosed with ______.",
+            "options": [
+              "add",
+              "ad",
+              "activity",
+              "actual"
+            ],
+            "answer": "add"
+          }
+        ]
+      }
     }
   ]
 }
